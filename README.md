@@ -30,7 +30,7 @@ Here are screenshots of response data as it appears in the console.
 ​
 `node liri spotify-this-song mama mia`
 ​
-https://petrosyanart.github.io/liri-node-app/imgs/spotify-this-song.png
+https://github.com/PetrosyanArt/liri-node-app/blob/master/imgs/spotify-this-song.png
 ​
 ### Random text file instructions
 ​
@@ -38,19 +38,20 @@ https://petrosyanart.github.io/liri-node-app/imgs/spotify-this-song.png
 ​
 This input processes instructions in the random.txt file, which is to search Spotify for the song, "I Want It That Way."
 ​
-https://petrosyanart.github.io/liri-node-app/imgs/do-what-it-says.png
+https://github.com/PetrosyanArt/liri-node-app/blob/master/imgs/do-what-it-says.png
 ​
 ### OMDB
 ​
 `node liri movie-this hurt locker`
 ​
-https://petrosyanart.github.io/liri-node-app/imgs/movie-this.png​
+https://github.com/PetrosyanArt/liri-node-app/blob/master/imgs/movie-this.png
+​
 ​
 ### BandsInTown ______API is not working__________
 ​
 `node liri concert-this beach boys`
 ​
-https://petrosyanart.github.io/liri-node-app/imgs/concert-this.png
+https://github.com/PetrosyanArt/liri-node-app/blob/master/imgs/concert-this.png
 ​
 ## Technologies
 Here are this app's NPM modules, databases, switch statement:
