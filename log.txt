@@ -42,3 +42,9 @@ Spotify Preview Link: null
 Album: Radio Active
 ] -******** e n d ********- [
 undefinedundefined
+] LIRI BOT [
+concert-this :: scorpions
+Name of the venue: World Stage
+Location: Rio De Janeiro
+Date of event: 10/04/2019
+] -******** e n d ********- [
